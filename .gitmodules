@@ -3,4 +3,4 @@
 	url = https://github.com/OSVVM/OSVVM.git
 [submodule "vunit/vhdl/JSON-for-VHDL"]
 	path = vunit/vhdl/JSON-for-VHDL
-	url = https://github.com/Paebbels/JSON-for-VHDL.git
+	url = https://github.com/SciAps/JSON-for-VHDL.git
